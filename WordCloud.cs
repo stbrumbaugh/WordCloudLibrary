@@ -5,7 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.IO;
 // This class was last checked 9-23-20, not tested
-namespace Thinker
+namespace WordLibrary
 {
     public class WordCloud
     {

@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 
 // This class was last checked 9-23-20, tested works of 10/1/20
-namespace Thinker
+namespace WordLibrary
 {
     public class Words
     {

@@ -6,7 +6,7 @@ using System.IO;
 //using MathNet.Numerics;
 
 // This class was last checked 9-23-20, not tested
-namespace Thinker
+namespace WordLibrary
 {
     public class WordClouds
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 
-namespace Thinker
+namespace WordLibrary
 {
     public class Word
     {
